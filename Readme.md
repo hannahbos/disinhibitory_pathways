@@ -1,4 +1,4 @@
-# create simulation, analysis and figures for the manuscript 'Untangling stability and gain modulation in cortical circuits with multiple interneuron classes'
+# scripts for simulation, analysis, and figures for the manuscript 'Untangling stability and gain modulation in cortical circuits with multiple interneuron classes'
 
 Dependencies:
  * NEST **2.16.0**
